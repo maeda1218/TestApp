@@ -10,6 +10,8 @@ import UIKit
 
 class DetailViewController: UIViewController {
 
+    
+    
     @IBOutlet weak var detailDescriptionLabel: UILabel!
 
 
