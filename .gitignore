@@ -15,5 +15,6 @@ DerivedData
 *.pbxuser
 *.perspectivev3
 xcuserdata
+xcuserstate
 
 *.xccheckout
